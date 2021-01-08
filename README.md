@@ -7,3 +7,5 @@ dos buscadores, uno para filtrar por figuras y el otro para filtrar por nombres.
 
 Fue realizado con HTML, CSS y Javascript para la funcionalidad, se emplea LocalStorage para 
 una mejor experiencia 
+
+Link para visulizar: https://eloquent-blackwell-2adc34.netlify.app/
